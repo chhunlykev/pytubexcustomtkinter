@@ -15,7 +15,13 @@ Install the following prerequisites:
 Install required dependencies:
 
 ```bash
-pip install -r requirements.txt
+pip install tkinter
+```
+```bash
+pip install customtkinter
+```
+```bash
+pip install pytube
 ```
 ## Run the application
 
